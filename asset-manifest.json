@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prac_weather_app/static/css/main.2c812555.css",
+    "main.js": "/prac_weather_app/static/js/main.2e62e68c.js",
+    "static/js/787.d9312eb8.chunk.js": "/prac_weather_app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/prac_weather_app/index.html",
+    "main.2c812555.css.map": "/prac_weather_app/static/css/main.2c812555.css.map",
+    "main.2e62e68c.js.map": "/prac_weather_app/static/js/main.2e62e68c.js.map",
+    "787.d9312eb8.chunk.js.map": "/prac_weather_app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c812555.css",
+    "static/js/main.2e62e68c.js"
+  ]
+}
